@@ -1,0 +1,13 @@
+body {
+  background-position: center;
+  border: 2px solid powderblue;
+    background-image: url(HS89hPlXoAAb-a7.jpg);
+  padding: 30px;
+  object-fit: cover;
+}
+h1 {
+  color: blue;
+}
+p {
+  color: red;
+}
